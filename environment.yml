@@ -1,0 +1,13 @@
+name: def
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pandas
+  - matplotlib-venn
+  - statsmodels
+  - jupyterlab
+  - scikit-learn
+  - matplotlib
+  - scipy
+  - seaborn
