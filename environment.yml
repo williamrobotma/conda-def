@@ -8,6 +8,8 @@ dependencies:
   - statsmodels
   - jupyterlab
   - scikit-learn
-  - matplotlib
   - scipy
   - seaborn
+  - ipywidgets
+  - pytables
+  - tqdm
