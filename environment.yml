@@ -4,8 +4,7 @@ channels:
   - conda-forge
 dependencies:
   - pandas
-  # - numpy<1.22
-  # - nltk
+  - python
   - matplotlib-venn
   - statsmodels
   - jupyterlab
@@ -15,4 +14,4 @@ dependencies:
   - ipywidgets
   - pytables
   - tqdm
-  # - umap-learn
+  - umap-learn
