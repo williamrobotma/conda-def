@@ -1,17 +1,23 @@
 name: def
 channels:
-  - defaults
   - conda-forge
+  - bioconda
 dependencies:
+  - matplotlib-venn
+  - jupyterlab
+  - fa2
+  - ipywidgets
+  - pytables
+  - scanpy
+  - numpy
+  - numba
   - pandas
   - python
-  - matplotlib-venn
   - statsmodels
-  - jupyterlab
   - scikit-learn
   - scipy
   - seaborn
-  - ipywidgets
-  - pytables
   - tqdm
   - umap-learn
+  - yaml
+  - joblib
